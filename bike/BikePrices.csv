@@ -1,0 +1,181 @@
+bike_ID,symboling,BikeName,fueltype,aspiration,drivewheel,enginelocation,wheelbase,bikelength,bikewidth,bikeheight,curbweight,enginetype,cylindernumber,enginesize,boreratio,stroke,compressionratio,horsepower,peakrpm,citympg,highwaympg,price
+1,3,suzuki ay katana,benz,std,rwd,centr,88.6,168.8,64.1,48.8,2548,dohc,four,130,3.47,3.08,9,111,5000,21,27,13495
+2,3,suzuki burgman,benz,std,rwd,centr,88.6,168.8,64.1,48.8,2548,dohc,four,130,3.47,3.08,9,111,5000,21,27,16500
+3,1,suzuki an125,benz,std,rwd,centr,94.5,171.2,65.5,52.4,2823,ohcv,four,152,3.08,3.47,9,154,5000,19,26,16500
+4,2,suzuki an250,benz,std,fwd,centr,99.8,176.6,66.2,54.3,2337,ohc,four,109,3.19,3.4,10,102,5500,24,30,13950
+5,2,suzuki an400,benz,std,fwd,centr,99.4,176.6,66.4,54.3,2824,ohc,five,136,3.19,3.4,8,115,5500,18,22,17450
+6,2,suzuki an650,benz,std,fwd,centr,99.8,177.3,66.3,53.1,2507,ohc,five,136,3.19,3.4,8.5,110,5500,19,25,15250
+7,1,suzuki burgman 400,benz,std,fwd,centr,105.8,192.7,71.4,55.7,2844,ohc,five,136,3.19,3.4,8.5,110,5500,19,25,17710
+8,1,suzuki gfx 1300 r,benz,std,fwd,centr,105.8,192.7,71.4,55.7,2954,ohc,five,136,3.19,3.4,8.5,110,5500,19,25,18920
+9,1,suzuki v-strom,benz,std,fwd,centr,105.8,192.7,71.4,55.9,3086,ohc,five,131,3.13,3.4,8.3,140,5500,17,20,23875
+10,0,suzuki gtx-s gt,benz,std,fwd,centr,99.5,178.2,67.9,52,3053,ohc,five,131,3.13,3.4,7,160,5500,16,22,17859.167
+11,2,suzuki gsx-s ,benz,std,rwd,centr,101.2,176.8,64.8,54.3,2395,ohc,four,108,3.5,2.8,8.8,101,5800,23,29,16430
+12,0,suzuki sv,benz,std,rwd,centr,101.2,176.8,64.8,54.3,2395,ohc,four,108,3.5,2.8,8.8,101,5800,23,29,16925
+13,0,sym crox,benz,std,rwd,centr,101.2,176.8,64.8,54.3,2710,ohc,two,164,3.31,3.19,9,121,4250,21,28,20970
+14,0,sym cruisym,benz,std,rwd,centr,101.2,176.8,64.8,54.3,2765,ohc,two,164,3.31,3.19,9,121,4250,21,28,21105
+15,1,sym fiddle,benz,std,rwd,retr,103.5,189,66.9,55.7,3055,ohc,two,164,3.31,3.19,9,121,4250,20,25,24565
+16,0,sym hd,benz,std,rwd,retr,103.5,189,66.9,55.7,3230,ohc,two,209,4.02,3.39,8,182,5400,16,22,30760
+17,0,sym jet 14,benz,std,rwd,retr,103.5,193.8,67.9,53.7,3380,ohc,two,209,4.02,3.39,8,182,5400,16,22,41315
+18,0,sym jet x,benz,std,rwd,retr,110,197,70.9,56.3,3505,ohc,two,209,4.02,3.39,8,182,5400,15,20,36880
+19,2,sym joymax,benz,std,fwd,retr,88.4,141.1,60.3,53.2,1488,ohv,two,61,3.31,3.03,9.5,48,5100,47,53,5151
+20,1,sym joyride,benz,std,fwd,retr,94.5,155.9,63.6,52,1874,ohc,two,90,3.03,3.11,9.6,70,5400,38,43,6295
+21,0,sym maxsym,benz,std,fwd,retr,94.5,158.8,63.6,52,1909,ohc,two,90,3.03,3.11,9.6,70,5400,38,43,6575
+22,1,sym maxsym tl,benz,std,fwd,retr,93.7,157.3,63.8,50.8,1876,ohc,two,90,3.37,3.23,9.41,68,5500,37,41,5572
+23,1,sym mio,benz,std,fwd,retr,93.7,157.3,63.8,50.8,1876,ohc,two,90,3.37,3.23,9.4,68,5500,31,38,6377
+24,1,sym symphony,benz,std,fwd,retr,93.7,157.3,63.8,50.8,2128,ohc,two,98,3.03,3.39,7.6,102,5500,24,30,7957
+25,1,sym nh,benz,std,fwd,retr,93.7,157.3,63.8,50.6,1967,ohc,two,90,3.37,3.23,9.4,68,5500,31,38,6229
+26,1,tacita t-cruise turismo,benz,std,fwd,centr,93.7,157.3,63.8,50.6,1989,ohc,four,90,3.37,3.23,9.4,68,5500,31,38,6692
+27,1,tacita t-cruise  urban,benz,std,fwd,centr,93.7,157.3,63.8,50.6,1989,ohc,four,90,3.37,3.23,9.4,68,5500,31,38,7609
+28,1,tacita t-race enduro/motard,benz,std,fwd,centr,93.7,157.3,63.8,50.6,2191,ohc,four,98,3.03,3.39,7.6,102,5500,24,30,8558
+29,-1,tacita t-race rally,benz,std,fwd,centr,103.3,174.6,64.6,59.8,2535,ohc,four,122,3.34,3.46,8.5,88,5000,24,30,8921
+30,3,yamaha d'elight,benz,std,fwd,centr,95.9,173.2,66.3,50.2,2811,ohc,four,156,3.6,3.9,7,145,5000,19,24,12964
+31,2,yamaha nmax,benz,std,fwd,centr,86.6,144.6,63.9,50.8,1713,ohc,four,92,3.31,3.41,9.6,58,4800,49,54,6479
+32,2,yamaha tmax,benz,std,fwd,centr,86.6,144.6,63.9,50.8,1819,ohc,four,92,3.31,3.41,9.2,76,6000,31,38,6855
+33,1,yamaha tricity,benz,std,fwd,centr,93.7,150,64,52.6,1837,ohc,four,79,3.31,3.07,10.1,60,5500,38,42,5399
+34,1,yamaha xmax,benz,std,fwd,centr,93.7,150,64,52.6,1940,ohc,four,92,3.31,3.41,9.2,76,6000,30,34,6529
+35,1,yamaha mt-03,benz,std,fwd,centr,93.7,150,64,52.6,1956,ohc,four,92,3.31,3.41,9.2,76,6000,30,34,7129
+36,0,yamaha mt-07,benz,std,fwd,centr,96.5,163.4,64,54.5,2010,ohc,four,92,3.31,3.41,9.2,76,6000,30,34,7295
+37,0,yamaha mt-09,benz,std,fwd,centr,96.5,157.1,63.9,58.3,2024,ohc,four,92,3.32,3.41,9.2,76,6000,30,34,7295
+38,0,yamaha mt-125,benz,std,fwd,centr,96.5,167.5,65.2,53.3,2236,ohc,four,110,3.15,3.58,9,86,5800,27,33,7895
+39,0,wottan motor storm,benz,std,fwd,centr,96.5,167.5,65.2,53.3,2289,ohc,four,110,3.15,3.58,9,86,5800,27,33,9095
+40,0,wottan storm-s,benz,std,fwd,centr,96.5,175.4,65.2,54.1,2304,ohc,four,110,3.15,3.58,9,86,5800,27,33,8845
+41,0,wottan storm-t,benz,std,fwd,centr,96.5,175.4,62.5,54.1,2372,ohc,four,110,3.15,3.58,9,86,5800,27,33,10295
+42,0,wottan gp1,benz,std,fwd,centr,96.5,175.4,65.2,54.1,2465,ohc,four,110,3.15,3.58,9,101,5800,24,28,12945
+43,1,wottan gp2,benz,std,fwd,centr,96.5,169.1,66,51,2293,ohc,four,110,3.15,3.58,9.1,100,5500,25,31,10345
+44,0,um dsr,benz,std,rwd,centr,94.3,170.7,61.8,53.5,2337,ohc,four,111,3.31,3.23,8.5,78,4800,24,29,6785
+45,1,um dsr adventure tt,benz,std,fwd,centr,94.5,155.9,63.6,52,1874,ohc,four,90,3.03,3.11,9.6,70,5400,38,43,8916.5
+46,0,um renegade,benz,std,fwd,centr,94.5,155.9,63.6,52,1909,ohc,four,90,3.03,3.11,9.6,70,5400,38,43,8916.5
+47,2,um renegade scramble,benz,std,rwd,centr,96,172.6,65.2,51.4,2734,ohc,four,119,3.43,3.23,9.2,90,5000,24,29,11048
+48,0,um 125,benz,std,rwd,centr,113,199.6,69.6,52.8,4066,dohc,four,258,4.03,4.17,8.1,176,4750,15,19,32250
+49,0,um 250,benz,std,rwd,centr,113,199.6,69.6,52.8,4066,dohc,four,258,4.03,4.17,8.1,176,4750,15,19,35550
+50,0,um 300,benz,std,rwd,centr,102,191.7,70.6,47.8,3950,dohc,twelve,326,3.54,3.16,11.5,262,5000,13,17,36000
+51,1,zontes ZT125-G1,benz,std,fwd,centr,93.1,159.1,64.2,54.1,1890,ohc,four,91,3.03,3.15,9,68,5000,30,31,5195
+52,1,zontes ZT310-R,benz,std,fwd,centr,93.1,159.1,64.2,54.1,1900,ohc,four,91,3.03,3.15,9,68,5000,31,38,6095
+53,1,zontes ZT310-T,benz,std,fwd,centr,93.1,159.1,64.2,54.1,1905,ohc,four,91,3.03,3.15,9,68,5000,31,38,6795
+54,1,zontes ZT310-V,benz,std,fwd,centr,93.1,166.8,64.2,54.1,1945,ohc,four,91,3.03,3.15,9,68,5000,31,38,6695
+55,1,zontes ZT310-X,benz,std,fwd,centr,93.1,166.8,64.2,54.1,1950,ohc,four,91,3.08,3.15,9,68,5000,31,38,7395
+56,3,voge brivido,benz,std,rwd,centr,95.3,169,65.7,49.6,2380,ohv,two,70,3.33,7.15,9.4,101,6000,17,23,10945
+57,3,voge trofeo,benz,std,rwd,centr,95.3,169,65.7,49.6,2380,ohv,two,70,3.33,7.15,9.4,101,6000,17,23,11845
+58,3,mash black seven,benz,std,rwd,centr,95.3,169,65.7,49.6,2385,ohv,two,70,3.33,7.15,9.4,101,6000,17,23,13645
+59,3,mash fifty,benz,std,rwd,centr,95.3,169,65.7,49.6,2500,ohv,two,80,3.33,7.15,9.4,135,6000,16,23,15645
+60,1,mash five hundred,benz,std,fwd,centr,98.8,177.8,66.5,53.7,2385,ohc,four,122,3.39,3.39,8.6,84,4800,26,32,8845
+61,0,mash seventy,benz,std,fwd,centr,98.8,177.8,66.5,55.5,2410,ohc,four,122,3.39,3.39,8.6,84,4800,26,32,8495
+62,1,mash four hundred,benz,std,fwd,centr,98.8,177.8,66.5,53.7,2385,ohc,four,122,3.39,3.39,8.6,84,4800,26,32,10595
+63,0,mash two fifty,benz,std,fwd,centr,98.8,177.8,66.5,55.5,2410,ohc,four,122,3.39,3.39,8.6,84,4800,26,32,10245
+64,0,mash x ride650,benz,std,fwd,centr,98.8,177.8,66.5,55.5,2443,ohc,four,122,3.39,3.39,22.7,64,4650,36,42,10795
+65,0,mash x ride125,benz,std,fwd,centr,98.8,177.8,66.5,55.5,2425,ohc,four,122,3.39,3.39,8.6,84,4800,26,32,11245
+66,0,piaggio 1,benz,std,rwd,retr,104.9,175,66.1,54.4,2670,ohc,four,140,4.16,3.16,8,120,5000,19,27,18280
+67,0,piaggio beverly,benz,std,rwd,retr,104.9,175,66.1,54.4,2700,ohc,four,134,3.43,4.04,22,72,4200,31,39,18344
+68,-1,piaggio liberty,benz,std,rwd,retr,110,190.9,70.3,56.5,3515,ohc,five,183,3.58,4.04,21.5,123,4350,22,25,25552
+69,-1,piaggio medley,benz,std,rwd,retr,110,190.9,70.3,58.7,3750,ohc,five,183,3.58,4.04,21.5,123,4350,22,25,28248
+70,0,piaggio mp3,benz,std,rwd,retr,106.7,187.5,70.3,54.9,3495,ohc,five,183,3.58,4.04,21.5,123,4350,22,25,28176
+71,-1,piaggio zip,benz,std,rwd,retr,115.6,202.6,71.7,56.3,3770,ohc,five,183,3.58,4.04,21.5,123,4350,22,25,31600
+72,-1,piaggio mymoover,benz,std,rwd,centr,115.6,202.6,71.7,56.5,3740,dohc,eight,234,3.46,3.1,8.3,155,4750,16,18,34184
+73,3,niu mqi-series,benz,std,rwd,centr,96.6,180.3,70.5,50.8,3685,dohc,eight,234,3.46,3.1,8.3,155,4750,16,18,35056
+75,1,niu nqi-series,benz,std,rwd,centr,112,199.2,72,55.4,3715,dohc,eight,304,3.8,3.35,8,184,4500,14,16,45400
+74,0,niu uqi-series,benz,std,rwd,centr,120.9,208.1,71.7,56.7,3900,dohc,eight,308,3.8,3.35,8,184,4500,14,16,40960
+76,1,derbi senda,benz,std,rwd,centr,102.7,178.4,68,54.8,2910,ohc,four,140,4.18,3.12,8,175,5000,19,24,16503
+77,2,askol eS2,benz,std,fwd,centr,93.7,157.3,64.4,50.8,1918,ohc,four,92,3.37,3.23,9.4,68,5500,37,41,5389
+78,2,askol eS3,benz,std,fwd,centr,93.7,157.3,64.4,50.8,1944,ohc,four,92,3.37,3.23,9.4,68,5500,31,38,6189
+79,2,askol ngs,benz,std,fwd,centr,93.7,157.3,64.4,50.8,2004,ohc,four,92,3.37,3.23,9.4,68,5500,31,38,6669
+80,1,ducati desertX,benz,std,fwd,centr,93,157.3,63.8,50.8,2145,ohc,four,98,3.03,3.39,7.6,102,5500,24,30,7689
+81,3,ducati diavel,benz,std,fwd,centr,96.3,173,65.4,49.4,2370,ohc,four,110,3.17,3.46,7.5,116,5500,23,30,9959
+82,3,ducati hypermotarad,benz,std,fwd,centr,96.3,173,65.4,49.4,2328,ohc,four,122,3.35,3.46,8.5,88,5000,25,32,8499
+83,3,ducati monster,benz,std,fwd,centr,95.9,173.2,66.3,50.2,2833,ohc,four,156,3.58,4.26,7,145,5000,19,24,12629
+84,3,ducati monster,benz,std,fwd,centr,95.9,173.2,66.3,50.2,2921,ohc,four,156,3.59,4.26,7,145,5000,19,24,14869
+85,3,ducati multistrada,benz,std,fwd,centr,95.9,173.2,66.3,50.2,2926,ohc,four,156,3.59,4.26,7,145,5000,19,24,14489
+86,1,ducati multistrada V2,benz,std,fwd,centr,96.3,172.4,65.4,51.6,2365,ohc,four,122,3.35,3.46,8.5,88,5000,25,32,6989
+87,1,ducati panigale,benz,std,fwd,centr,96.3,172.4,65.4,51.6,2405,ohc,four,122,3.35,3.46,8.5,88,5000,25,32,8189
+88,1,ducati scrambler,benz,std,fwd,centr,96.3,172.4,65.4,51.6,2403,ohc,four,110,3.17,3.46,7.5,116,5500,23,30,9279
+89,-1,ducati streetfighter V2,benz,std,fwd,centr,96.3,172.4,65.4,51.6,2403,ohc,four,110,3.17,3.46,7.5,116,5500,23,30,9279
+90,1,betamoto alp 200,benz,std,fwd,centr,94.5,165.3,63.8,54.5,1889,ohc,four,97,3.15,3.29,9.4,69,5200,31,37,5499
+91,1,betamoto evo 125,benz,std,fwd,centr,94.5,165.3,63.8,54.5,2017,ohc,four,103,3.39,3.47,21.9,55,4800,45,50,7099
+92,1,betamotor evo 250,benz,std,fwd,centr,94.5,165.3,63.8,54.5,1918,ohc,four,97,3.15,3.29,9.4,69,5200,31,37,6649
+93,1,betamotor evo 300,benz,std,fwd,centr,94.5,165.3,63.8,54.5,1938,ohc,four,97,3.15,3.29,9.4,69,5200,31,37,6849
+94,1,betamotor evo 300 4t,benz,std,fwd,centr,94.5,170.2,63.8,53.5,2024,ohc,four,97,3.15,3.29,9.4,69,5200,31,37,7349
+95,1,betamotor evo 80,benz,std,fwd,centr,94.5,165.3,63.8,54.5,1951,ohc,four,97,3.15,3.29,9.4,69,5200,31,37,7299
+96,1,betamotor minicross-e,benz,std,fwd,centr,94.5,165.6,63.8,53.3,2028,ohc,four,97,3.15,3.29,9.4,69,5200,31,37,7799
+97,1,betamotor evo 300 4t,benz,std,fwd,centr,94.5,165.3,63.8,54.5,1971,ohc,four,97,3.15,3.29,9.4,69,5200,31,37,7499
+100,0,betamotor evo 250,benz,std,fwd,centr,97.2,173.4,65.2,54.7,2324,ohc,four,120,3.33,3.47,8.5,97,5200,27,34,8949
+101,0,betamotor rr 125 2t,benz,std,fwd,centr,97.2,173.4,65.2,54.7,2302,ohc,four,120,3.33,3.47,8.5,97,5200,27,34,9549
+102,0,betamotor rr 125 4t,benz,std,fwd,centr,100.4,181.7,66.5,55.1,3095,dohc,four,181,3.43,3.27,9,152,5200,17,22,13499
+103,0,betamotor rr 200 2t,benz,std,fwd,centr,100.4,184.6,66.5,56.1,3296,dohc,four,181,3.43,3.27,9,152,5200,17,22,14399
+104,0,betamotor rr 250 2t,benz,std,fwd,centr,100.4,184.6,66.5,55.1,3060,dohc,four,181,3.43,3.27,9,152,5200,19,25,13499
+105,3,betamotor rr 300 2t,benz,std,rwd,centr,91.3,170.7,67.9,49.7,3071,dohc,four,181,3.43,3.27,9,160,5200,19,25,17199
+106,3,betamotor rr 350 2t,benz,std,rwd,centr,91.3,170.7,67.9,49.7,3139,dohc,four,181,3.43,3.27,7.8,200,5200,17,23,19699
+107,1,betamotor rr 390 4t,benz,std,rwd,centr,99.2,178.5,67.9,49.7,3139,dohc,four,181,3.43,3.27,9,160,5200,19,25,18399
+108,0,kymko agility 125,benz,std,rwd,centr,107.9,186.7,68.4,56.7,3020,ohv,four,120,3.46,3.19,8.4,97,5000,19,24,11900
+109,0,kymko ak 550,benz,std,rwd,centr,107.9,186.7,68.4,56.7,3197,ohv,four,152,3.7,3.52,21,95,4150,28,33,13200
+110,0,kymko dtk 360,benz,std,rwd,centr,114.2,198.9,68.4,58.7,3230,ohv,four,120,3.46,3.19,8.4,97,5000,19,24,12440
+111,0,kymko agility 135,benz,std,rwd,centr,114.2,198.9,68.4,58.7,3430,ohv,four,152,3.7,3.52,21,95,4150,25,25,13860
+112,0,kymko agility 156,benz,std,rwd,centr,107.9,186.7,68.4,56.7,3075,ohv,four,120,3.46,2.19,8.4,95,5000,19,24,15580
+113,0,kymko dink 125,benz,std,rwd,centr,107.9,186.7,68.4,56.7,3252,ohv,four,152,3.7,3.52,21,95,4150,28,33,16900
+114,0,kymko agility 178,benz,std,rwd,centr,114.2,198.9,68.4,56.7,3285,ohv,four,120,3.46,2.19,8.4,95,5000,19,24,16695
+115,0,kymko downtown 350i,benz,std,rwd,centr,114.2,198.9,68.4,58.7,3485,ohv,four,152,3.7,3.52,21,95,4150,25,25,17075
+116,0,kymko agility 56,benz,std,rwd,centr,107.9,186.7,68.4,56.7,3075,ohv,four,120,3.46,3.19,8.4,97,5000,19,24,16630
+117,0,kymko agility 983,benz,std,rwd,centr,107.9,186.7,68.4,56.7,3252,ohv,four,152,3.7,3.52,21,95,4150,28,33,17950
+118,0,kymko dink 125,benz,std,rwd,centr,108,186.7,68.3,56,3130,ohv,four,134,4.01,3.21,7,142,5600,18,24,18150
+119,1,vespa primavera iii,benz,std,fwd,centr,93.7,157.3,63.8,50.8,1918,ohv,four,90,3.37,3.23,9.4,68,5500,37,41,5572
+120,1,vespa sei giorni 300,benz,std,fwd,centr,93.7,157.3,63.8,50.8,2128,ohv,four,98,3.03,3.39,7.6,102,5500,24,30,7957
+121,1,vespa primavera iii,benz,std,fwd,centr,93.7,157.3,63.8,50.6,1967,ohv,four,90,3.37,3.23,9.4,68,5500,31,38,6229
+122,1,vespa sprint 50,benz,std,fwd,centr,93.7,167.3,63.8,50.8,1989,ohv,four,90,3.37,3.23,9.4,68,5500,31,38,6692
+123,1,vespa vespa elettrica,benz,std,fwd,centr,93.7,167.3,63.8,50.8,2191,ohv,four,98,3.37,3.23,9.4,68,5500,31,38,7609
+124,-1,vespa sprint 125 3v,benz,std,fwd,centr,103.3,174.6,64.6,59.8,2535,ohv,four,122,3.35,3.46,8.5,88,5000,24,30,8921
+125,3,vespa sprint 150 3v,benz,std,rwd,centr,95.9,173.2,66.3,50.2,2818,ohv,four,156,3.59,4.26,7,145,5000,19,24,12764
+126,3,aprilia scarabeo,benz,std,rwd,centr,94.5,168.9,68.3,50.2,2778,ohv,four,151,4.34,3.11,9.5,143,5500,19,27,22018
+127,3,aprilia tuareg,benz,std,rwd,centr,89.5,168.9,65,51.6,2756,cih,four,194,4.14,2.9,9.5,207,5900,17,25,32528
+128,3,aprilia tuono,benz,std,rwd,centr,89.5,168.9,65,51.6,2756,cih,four,194,4.14,2.9,9.5,207,5900,17,25,34028
+129,3,aprilia sxr,benz,std,rwd,centr,89.5,168.9,65,51.6,2800,cih,four,194,4.14,2.9,9.5,207,5900,17,25,37028
+130,1,aprilia rs125,benz,std,rwd,centr,98.4,175.7,72.3,50.5,3366,cih,eight,203,4.34,3.11,10,288,5750,17,28,31400.5
+131,0,benelli imperiale,benz,std,fwd,centr,96.1,181.5,66.5,55.2,2579,ohc,four,132,3.46,3.9,8.7,90,5100,23,31,9295
+132,2,benelli leoncino,benz,std,fwd,centr,96.1,176.8,66.6,50.5,2460,ohc,four,132,3.46,3.9,8.7,90,5100,23,31,9895
+133,3,bmw CE04,benz,std,fwd,centr,99.1,186.6,66.5,56.1,2658,ohc,four,121,3.54,3.07,9.31,110,5250,21,28,11850
+134,2,bmw R18,benz,std,fwd,centr,99.1,186.6,66.5,56.1,2695,ohc,four,121,3.54,3.07,9.3,110,5250,21,28,12170
+135,3,bmw serieR,benz,std,fwd,centr,99.1,186.6,66.5,56.1,2707,ohc,four,121,2.54,2.07,9.3,110,5250,21,28,15040
+136,2,bmw serieRGS,benz,std,fwd,centr,99.1,186.6,66.5,56.1,2758,ohc,four,121,3.54,3.07,9.3,110,5250,21,28,15510
+137,3,bmw serieS,benz,std,fwd,centr,99.1,186.6,66.5,56.1,2808,dohc,four,121,3.54,3.07,9,160,5500,19,26,18150
+138,2,bmw serieC,benz,std,fwd,centr,99.1,186.6,66.5,56.1,2847,dohc,four,121,3.54,3.07,9,160,5500,19,26,18620
+139,2,honda forza125,benz,std,fwd,centr,93.7,156.9,63.4,53.7,2050,ohc,four,97,4.02,2.36,9,69,4900,31,36,5118
+140,2,honda forza350,benz,std,fwd,centr,93.7,157.9,63.6,53.7,2120,ohc,four,108,4.02,3.04,8.7,73,4400,26,31,7053
+141,2,honda forza750,benz,std,fwd,centr,93.3,157.3,63.8,55.7,2240,ohc,four,108,4.02,3.04,8.7,73,4400,26,31,7603
+142,0,honda PCX,benz,std,fwd,centr,97.2,172,65.4,52.5,2145,ohc,four,108,4.02,3.04,9.5,82,4800,32,37,7126
+143,0,honda  SH,benz,std,fwd,centr,97.2,172,65.4,52.5,2190,ohc,four,108,4.02,3.04,9.5,82,4400,28,33,7775
+144,0,honda super cub,benz,std,fwd,centr,97.2,172,65.4,52.5,2340,ohc,four,108,4.02,3.04,9,94,5200,26,32,9960
+145,0,honda vision,benz,std,fwd,centr,97,172,65.4,54.3,2385,ohc,four,108,4.02,3.04,9,82,4800,24,25,9233
+146,0,honda africa twin,benz,std,fwd,centr,97,172,65.4,54.3,2510,ohc,four,108,4.02,3.04,7.7,111,4800,24,29,11259
+147,0,honda CB F,benz,std,fwd,centr,97,173.5,65.4,53,2290,ohc,four,108,4.02,3.04,9,82,4800,28,32,7463
+148,0,honda CB X,benz,std,fwd,centr,97,173.5,65.4,53,2455,ohc,four,108,4.02,3.04,9,94,5200,25,31,10198
+149,0,honda CRF,benz,std,fwd,centr,96.9,173.6,65.4,54.9,2420,ohc,four,108,4.02,3.04,9,82,4800,23,29,8013
+150,0,honda gold wind,benz,std,fwd,centr,96.9,173.6,65.4,54.9,2650,ohc,four,108,4.02,3.04,7.7,111,4800,23,23,11694
+151,1,ktm 1290 super adventure,benz,std,fwd,centr,95.7,158.7,63.6,54.5,1985,ohc,four,92,3.05,3.03,9,62,4800,35,39,5348
+152,1,ktm 690 enduro,benz,std,fwd,centr,95.7,158.7,63.6,54.5,2040,ohc,four,92,3.05,3.03,9,62,4800,31,38,6338
+153,1,ktm 690 smc r,benz,std,fwd,centr,95.7,158.7,63.6,54.5,2015,ohc,four,92,3.05,3.03,9,62,4800,31,38,6488
+154,0,ktm exc 150,benz,std,fwd,centr,95.7,169.7,63.6,59.1,2280,ohc,four,92,3.05,3.03,9,62,4800,31,37,6918
+155,0,ktm exc 259 f,benz,std,fwd,centr,95.7,169.7,63.6,59.1,2290,ohc,four,92,3.05,3.03,9,62,4800,27,32,7898
+156,0,ktm exc 300,benz,std,fwd,centr,95.7,169.7,63.6,59.1,3110,ohc,four,92,3.05,3.03,9,62,4800,27,32,8778
+157,0,ktm freeride,benz,std,fwd,centr,95.7,166.3,64.4,53,2081,ohc,four,98,3.19,3.03,9,70,4800,30,37,6938
+158,0,ktm rc 125,benz,std,fwd,centr,95.7,166.3,64.4,52.8,2109,ohc,four,98,3.19,3.03,9,70,4800,30,37,7198
+159,0,ktm 690 enduro,benz,std,fwd,centr,95.7,166.3,64.4,53,2275,ohc,four,110,3.27,3.35,22.5,56,4500,34,36,7898
+160,0,ktm 125duke,benz,std,fwd,centr,95.7,166.3,64.4,52.8,2275,ohc,four,110,3.27,3.35,22.5,56,4500,38,47,7788
+161,0,ktm 690 enduro,benz,std,fwd,centr,95.7,166.3,64.4,53,2094,ohc,four,98,3.19,3.03,9,70,4800,38,47,7738
+162,0,ktm 125duke,benz,std,fwd,centr,95.7,166.3,64.4,52.8,2122,ohc,four,98,3.19,3.03,9,70,4800,28,34,8358
+163,0,ktm rc 125,benz,std,fwd,centr,95.7,166.3,64.4,52.8,2140,ohc,four,98,3.19,3.03,9,70,4800,28,34,9258
+164,1,ktm sx 250,benz,std,rwd,centr,94.5,168.7,64,52.6,2169,ohc,four,98,3.19,3.03,9,70,4800,29,34,8058
+165,1,ktm 690 enduro,benz,std,rwd,centr,94.5,168.7,64,52.6,2204,ohc,four,98,3.19,3.03,9,70,4800,29,34,8238
+166,1,ktm sx 50,benz,std,rwd,centr,94.5,168.7,64,52.6,2265,dohc,four,98,3.24,3.08,9.4,112,6600,26,29,9298
+167,1,ktm sx 65,benz,std,rwd,centr,94.5,168.7,64,52.6,2300,dohc,four,98,3.24,3.08,9.4,112,6600,26,29,9538
+168,2,ktm 450 rally,benz,std,rwd,centr,98.4,176.2,65.6,52,2540,ohc,four,146,4.02,3.5,9.3,116,4800,24,30,8449
+169,2,ktm 125duke,benz,std,rwd,centr,98.4,176.2,65.6,52,2536,ohc,four,146,4.02,3.5,9.3,116,4800,24,30,9639
+170,2,ktm exc 350,benz,std,rwd,centr,98.4,176.2,65.6,52,2551,ohc,four,146,4.02,3.5,9.3,116,4800,24,30,9989
+171,2,ktm rc 8c 890,benz,std,rwd,centr,98.4,176.2,65.6,52,2679,ohc,four,146,4.02,3.5,9.3,116,4800,24,30,11199
+172,2,ktm 125duke,benz,std,rwd,centr,98.4,176.2,65.6,52,2714,ohc,four,146,4.02,3.5,9.3,116,4800,24,30,11549
+173,2,ktm 390 duke,benz,std,rwd,centr,98.4,176.2,65.6,53,2975,ohc,four,146,4.02,3.5,9.3,116,4800,24,30,17669
+174,-1,ktm 125duke,benz,std,fwd,centr,102.4,175.6,66.5,54.9,2326,ohc,four,122,3.31,3.54,8.7,92,4200,29,34,8948
+175,-1,ktm exc 300,benz,std,fwd,centr,102.4,175.6,66.5,54.9,2480,ohc,four,110,3.27,3.35,22.5,73,4500,30,33,10698
+176,-1,ktm 690 enduro,benz,std,fwd,centr,102.4,175.6,66.5,53.9,2414,ohc,four,122,3.31,3.54,8.7,92,4200,27,32,9988
+177,-1,ktm 125duke,benz,std,fwd,centr,102.4,175.6,66.5,54.9,2414,ohc,four,122,3.31,3.54,8.7,92,4200,27,32,10898
+178,-1,ktm rc 125,benz,std,fwd,centr,102.4,175.6,66.5,53.9,2458,ohc,four,122,3.31,3.54,8.7,92,4200,27,32,11248
+179,3,ktm sx 250 f,benz,std,rwd,centr,102.9,183.5,67.7,52,2976,dohc,four,171,3.27,3.35,9.3,161,5200,20,24,16558
+180,3,ktm 690 enduro,benz,std,rwd,centr,102.9,183.5,67.7,52,3016,dohc,four,171,3.27,3.35,9.3,161,5200,19,24,15998
+181,-1,ktm sx-e 5,benz,std,rwd,centr,104.5,187.8,66.5,54.1,3131,dohc,four,171,3.27,3.35,9.2,156,5200,20,24,15690
+182,-1,ktm sx 85,benz,std,rwd,centr,104.5,187.8,66.5,54.1,3151,dohc,four,161,3.27,3.35,9.2,156,5200,19,24,15750
